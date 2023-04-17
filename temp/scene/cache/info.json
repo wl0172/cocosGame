@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz",
+        "version": "Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:25 PDT 2022; root:xnu-8020.140.41~1/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "63755dd3-7f96-4e05-848e-b808764528ed": "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/init.scene"
+    },
+    "deviceMd5": "6e0fe7a5c1d8ed9ecee2adf0057268be"
+}
