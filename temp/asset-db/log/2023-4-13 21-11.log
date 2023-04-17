@@ -1,0 +1,31 @@
+2023-4-13 21:11:52-debug: asset-db:worker-init (1998ms)
+2023-4-13 21:11:53-debug: Preimport db internal success
+2023-4-13 21:11:54-debug: Preimport db assets success
+2023-4-13 21:11:54-debug: asset-db:worker-effect-data-processing (210ms)
+2023-4-13 21:12:04-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-4-13 21:12:04-debug: Start up the 'internal' database...
+2023-4-13 21:12:04-debug: asset-db:worker-init-script (9ms)
+2023-4-13 21:12:04-debug: start asset-db with asset: 409
+2023-4-13 21:12:04-debug: Start up the 'assets' database...
+2023-4-13 21:12:04-debug: %cImport%c: /Users/cce/Desktop/work/DIAO-game/NewProject/assets/scene.scenebackground: #aaff85; color: #000;color: #000;
+2023-4-13 21:12:04-debug: start asset-db with asset: 4
+2023-4-13 21:12:04-debug: asset-db:worker-startup-database[internal] (10507ms)
+2023-4-13 21:12:04-debug: asset-db:worker-startup-database[assets] (10357ms)
+2023-4-13 21:12:04-debug: Asset DB is ready!
+2023-4-13 21:12:04-debug: init worker message success
+2023-4-13 21:12:08-debug: builder:worker-init (3716ms)
+2023-4-13 21:12:11-debug: programming:execute-script (4ms)
+2023-4-13 21:12:29-debug: start refresh asset from /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes...
+2023-4-13 21:12:29-debug: %cImport%c: /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenesbackground: #aaff85; color: #000;color: #000;
+2023-4-13 21:12:29-debug: refresh asset /Users/cce/Desktop/work/DIAO-game/NewProject/assets success
+2023-4-13 21:12:33-debug: start move asset from /Users/cce/Desktop/work/DIAO-game/NewProject/assets/scene.scene -> /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/scene.scene...
+2023-4-13 21:12:33-debug: start refresh asset from /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/scene.scene...
+2023-4-13 21:12:33-debug: %cImport%c: /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/scene.scenebackground: #aaff85; color: #000;color: #000;
+2023-4-13 21:12:33-debug: refresh asset /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes success
+2023-4-13 21:12:33-debug: start refresh asset from /Users/cce/Desktop/work/DIAO-game/NewProject/assets...
+2023-4-13 21:12:33-debug: move asset from /Users/cce/Desktop/work/DIAO-game/NewProject/assets/scene.scene -> /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/scene.scene success
+2023-4-13 21:12:33-debug: refresh asset /Users/cce/Desktop/work/DIAO-game/NewProject success
+2023-4-13 21:12:33-debug: %cImport%c: /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenesbackground: #aaff85; color: #000;color: #000;
+2023-4-13 21:12:34-debug: start refresh asset from /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/scene.scene...
+2023-4-13 21:12:34-debug: %cImport%c: /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/scene.scenebackground: #aaff85; color: #000;color: #000;
+2023-4-13 21:12:34-debug: refresh asset /Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes success

@@ -1,0 +1,114 @@
+{
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script.meta": {
+    "time": 1681391055634.6663
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script": {
+    "time": 1681457432662.9304,
+    "uuid": "59f17b87-24d0-4cbb-8840-c9f37945fb2b",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Image.meta": {
+    "time": 1681391065697.3806
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Image": {
+    "time": 1681455998469.9685,
+    "uuid": "363fbfdb-fc6f-44e0-a60d-c89c5b17f591",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Audio.meta": {
+    "time": 1681391073825.1936
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Audio": {
+    "time": 1681391073822.8157,
+    "uuid": "046b0d40-240a-466b-9ba0-5a403cc3b3ac",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes.meta": {
+    "time": 1681391549864.8171
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes": {
+    "time": 1681445442280.278,
+    "uuid": "0f15ecc5-e1c5-41c7-9be0-4ee703139c6b",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/init.meta": {
+    "time": 1681394149235.1604
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/init": {
+    "time": 1681457447742.7764,
+    "uuid": "324edbcb-1c94-4427-9b3a-000ef5cfaf6b",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/init/scenesChange.ts.meta": {
+    "time": 1681394172306.3252
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/init/scenesChange.ts": {
+    "time": 1681731928795.802,
+    "uuid": "4dc92e13-eb86-410d-a31d-249d08fe6262",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/init.scene.meta": {
+    "time": 1681393247182.7654
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/init.scene": {
+    "time": 1681457642826.0537,
+    "uuid": "63755dd3-7f96-4e05-848e-b808764528ed",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/main.scene.meta": {
+    "time": 1681393197158.9783
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Scenes/main.scene": {
+    "time": 1681466061637.2876,
+    "uuid": "99deaef8-a229-4fb2-88eb-2b002ea94707",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Image/1.png.meta": {
+    "time": 1681445469357.0652
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Image/1.png": {
+    "time": 1681387251195.1846,
+    "uuid": "44c4eb16-1cd8-4316-811b-1455b52cf2cc",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/init/initButton1.ts.meta": {
+    "time": 1681442387490.2776
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/init/initButton1.ts": {
+    "time": 1681457534196.4402,
+    "uuid": "1f47ad78-0bde-47fd-88fc-b7d4640b9cfb",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Image/2.png.meta": {
+    "time": 1681455998506.1982
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Image/2.png": {
+    "time": 1681455968649.1582,
+    "uuid": "dd5483b1-33ab-4ce0-9758-d076fc79b45c",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/main.meta": {
+    "time": 1681457432664.2698
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/main": {
+    "time": 1681457713301.1912,
+    "uuid": "faa32c03-5215-4454-be78-21f6efe685b3",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/main/mainButton1.ts.meta": {
+    "time": 1681452921701.5188
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/main/mainButton1.ts": {
+    "time": 1681457548815.3215,
+    "uuid": "e24bc08e-9b57-43c1-bc0c-703dd4b15ce3",
+    "missing": false
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/main/bgTransForm.ts.meta": {
+    "time": 1681457694198.3586
+  },
+  "/Users/cce/Desktop/work/DIAO-game/NewProject/assets/Script/main/bgTransForm.ts": {
+    "time": 1681467573932.4438,
+    "uuid": "1a413d94-4395-4c02-bd0a-7c69988d317a",
+    "missing": false
+  }
+}
